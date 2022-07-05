@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>"Ejercicio de Introducción a HTML en OpenBootcamp</title>
+        <body>
+            <p>Este es mi primer comentario de dos líneas.</p>
+            <p>Aprendiendo a documentar mi código con OpenBootcamp.</p>
+            <ul>
+                <li><a href="https://www.youtube.com/watch?v=hLQl3WQQoQ0">Adele - Someone Like You (Official Music Video)</a></li>
+                <li><a href="https://www.youtube.com/watch?v=UCF9oHXhDMU">Andrés Calamaro - Flaca (Videoclip Oficial)</a></li>
+                <li><a href="https://www.youtube.com/watch?v=fYwRsJAPfec">Jorja Smith - Blue Lights | A COLORS SHOW</a></li>
+            </ul>
+        </body>
+    </head>
+</html>
